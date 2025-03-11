@@ -4,32 +4,32 @@ A Streamlit-based GenAI assistant for querying SQL databases and generating Pyth
 
 🚀 **Features**
 
-Natural Language to SQL Query Conversion – Use GenAI to convert text queries into SQL.
+**Natural Language to SQL Query Conversion** – Use GenAI to convert text queries into SQL.
 
-Python Data Visualization Generation – Generate Python code for data plots automatically.
+**Python Data Visualization Generation** – Generate Python code for data plots automatically.
 
-Dynamic Database Connectivity – Connect to MySQL and execute SQL queries effortlessly.
+**Dynamic Database Connectivity** – Connect to MySQL and execute SQL queries effortlessly.
 
-Conversational Memory – Retains context for more meaningful responses.
+**Conversational Memory** – Retains context for more meaningful responses.
 
-Multi-LLM Support – Select from OpenAI, Llama, or Gemini for enhanced accuracy.
+**Multi-LLM Support** – Select from OpenAI, Llama, or Gemini for enhanced accuracy.
 
-Streamlit-Based UI – Intuitive interface for a smooth user experience.
+**Streamlit-Based UI** – Intuitive interface for a smooth user experience.
 
 🛠 **Installation**
 
-1️⃣ Clone the Repository
+1️⃣ **Clone the Repository**
 
 git clone https://github.com/yourusername/genai-sql-agent.git
 cd genai-sql-agent
 
-2️⃣ Create a Virtual Environment & Install Dependencies
+2️⃣ **Create a Virtual Environment & Install Dependencies**
 
 python -m venv venv
 source venv/bin/activate  # On Windows, use 'venv\Scripts\activate'
 pip install -r requirements.txt
 
-3️⃣ Set Up Environment Variables
+3️⃣ **Set Up Environment Variables**
 
 Create a .env file in the project directory and add:
 
@@ -38,7 +38,7 @@ DATABASE_HOST=your_database_host
 DATABASE_USER=your_database_user
 DATABASE_PASSWORD=your_database_password
 
-4️⃣ Run the Streamlit App
+4️⃣ **Run the Streamlit App**
 
 streamlit run app.py
 
