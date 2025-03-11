@@ -1,8 +1,8 @@
-GenAI SQL & Python Agent
+**GenAI SQL & Python Agent**
 
 A Streamlit-based GenAI assistant for querying SQL databases and generating Python visualizations using Large Language Models (LLMs). This AI-powered tool allows users to interact with databases using natural language and generate Python-based data visualizations seamlessly.
 
-🚀 Features
+🚀 **Features**
 
 Natural Language to SQL Query Conversion – Use GenAI to convert text queries into SQL.
 
@@ -16,7 +16,7 @@ Multi-LLM Support – Select from OpenAI, Llama, or Gemini for enhanced accuracy
 
 Streamlit-Based UI – Intuitive interface for a smooth user experience.
 
-🛠 Installation
+🛠 **Installation**
 
 1️⃣ Clone the Repository
 
